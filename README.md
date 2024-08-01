@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jafariya
-- 👀 I’m interested in Computer Science and Engineering
-- 🌱 I’m currently learning Java, Assembly, Verilog
+- 👀 I’m Computer Science and Engineering student.
+
 
 
 
